@@ -18,3 +18,5 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 1. Mapbox provides custom maps for websites and applications such as Strava, Facebook, the Financial Times, The Weather Channel, Snapchat, and Instacart. Since October 2019, Mapbox has been generating up to 14 billion individual sensor readings daily across 100,000 map updates on connected devices.
 
 The Leaflet CSS and JavaScript files we added to the index.html file are referred to as content delivery networks (CDNs). Using CDNs has a security risk. To avoid the security risk, it's a best practice to include an integrity value with the CDN. Each file we added has its own integrity value, which is a Base64-encoded cryptographic hash of a resource that prevents the CDN from being hacked.
+
+2. GeoJSON data is a type of JavaScript Object Notation (JSON) data that is specifically designed to host geographical information. GeoJSON data consists of a single object, which can be represented by a geometry object, features object, or collection of features (FeatureCollection object).
