@@ -44,7 +44,14 @@ Using knowledge of JavaScript, Leaflet.js, and geoJSON data, we will add tectoni
       - The geoJSON() layer adds color and width to the tectonic plate lines
       - The tectonic layer group variable is added to the map
  - The earthquake data and tectonic plate data displayed on the map when the page loads. 
+##### Code - 
+![23](https://user-images.githubusercontent.com/23488019/151729118-507d4d0c-e02a-4740-b1c0-9d57f8ad07ea.PNG)
+![24](https://user-images.githubusercontent.com/23488019/151729127-c505db39-08a1-4f0a-b29e-a470c70235fb.PNG)
 
+
+##### Final Map generated - 
+
+![22](https://user-images.githubusercontent.com/23488019/151729158-fa11b762-8a32-4d46-a4c3-466e04637948.png)
 
 
 
@@ -60,6 +67,7 @@ Using  knowledge of JavaScript, Leaflet.js, and geoJSON data, we will add major 
      - The major earthquake layer group variable is added to the map
 - All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off. 
 
+![del2](https://user-images.githubusercontent.com/23488019/151729571-83e22120-1719-4f85-bc42-9ebe89bf7aa3.png)
 
 
 
@@ -67,5 +75,16 @@ Using  knowledge of JavaScript, Leaflet.js, and geoJSON data, we will add major 
 Using the knowledge of JavaScript and Leaflet.js we will add a third map style to our earthquake map. The following steps have been carried out in the deliverable 3 :
 - A third map tile layer is created. 
 - The third map is added to the overlay object. 
-- All the earthquake data and tectonic plate data are displayed on the all maps of the webpage. 
- 
+- All the earthquake data and tectonic plate data are displayed on all the maps of the webpage. 
+
+![del3](https://user-images.githubusercontent.com/23488019/151729669-05a5f976-132e-42c6-a5ee-0036e85ae9dd.png)
+Map in the dark mode
+
+
+
+![extra map](https://user-images.githubusercontent.com/23488019/151729797-de1ddf04-44f8-4fb7-8344-f9d017a7f9cb.png)
+Map in the Satellite mode
+
+
+![map popup marker](https://user-images.githubusercontent.com/23488019/151729939-42cfcd73-e23f-4d7b-98b5-bcaf49818cb5.png)
+Map has added popup markers that are displayed when clicked on the earthquake location
